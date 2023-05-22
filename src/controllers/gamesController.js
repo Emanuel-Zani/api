@@ -17,7 +17,7 @@ const getApiGames = async () => {
         },
       }
     );
-
+      //push games
     listGames.push(apiGames);
 
     page++;
